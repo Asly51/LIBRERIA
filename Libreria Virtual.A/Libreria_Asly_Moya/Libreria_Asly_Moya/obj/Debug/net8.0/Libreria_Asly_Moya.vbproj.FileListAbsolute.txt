@@ -1,0 +1,14 @@
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\obj\Debug\net8.0\Libreria_Asly_Moya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\obj\Debug\net8.0\Libreria_Asly_Moya.AssemblyInfoInputs.cache
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\obj\Debug\net8.0\Libreria_Asly_Moya.AssemblyInfo.vb
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\obj\Debug\net8.0\Libreria_Asly_Moya.vbproj.CoreCompileInputs.cache
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\bin\Debug\net8.0\Libreria_Asly_Moya.exe
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\bin\Debug\net8.0\Libreria_Asly_Moya.deps.json
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\bin\Debug\net8.0\Libreria_Asly_Moya.runtimeconfig.json
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\bin\Debug\net8.0\Libreria_Asly_Moya.dll
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\bin\Debug\net8.0\Libreria_Asly_Moya.pdb
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\obj\Debug\net8.0\Libreria_Asly_Moya.dll
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\obj\Debug\net8.0\refint\Libreria_Asly_Moya.dll
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\obj\Debug\net8.0\Libreria_Asly_Moya.pdb
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\obj\Debug\net8.0\Libreria_Asly_Moya.genruntimeconfig.cache
+C:\Users\mcedu\OneDrive\Escritorio\Libreria Virtual.A\Libreria_Asly_Moya\Libreria_Asly_Moya\obj\Debug\net8.0\ref\Libreria_Asly_Moya.dll
